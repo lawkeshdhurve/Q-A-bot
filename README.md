@@ -278,3 +278,7 @@ Bot: I cannot find the answer in the provided documents.
 | Document Parsing       | `pypdf`, `python-docx`                       |
 | Web UI                  | Streamlit                                    |
 | Env Management            | `python-dotenv`                            |
+
+
+<img width="1918" height="1007" alt="image" src="https://github.com/user-attachments/assets/c717d9a6-24fd-4343-9c33-294a537568de" />
+
